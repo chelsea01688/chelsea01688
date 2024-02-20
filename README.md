@@ -1,6 +1,7 @@
 ### Hi there, I'm Chelsea!👋
 I'm a software engineer who is working in React/Redux/Node, passionate about developing practical community-focused solutions. Recently co-created Docketeer, a Docker Visualizer and Security Analysis Tool.
 
+<h1>Skills</h1>
 <!--
 **chelsea01688/chelsea01688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
