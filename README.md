@@ -1,6 +1,7 @@
 ### Hi there, I'm Chelsea!👋
 I'm a software engineer who is working in React/Redux/Node, passionate about developing practical community-focused solutions. Recently co-created Docketeer, a Docker Visualizer and Security Analysis Tool.
 
+<br>
 
 ### Skills💻 
 **Frontend & Backend Development:** `React` `TypeScript` `Javascript` `HTML/CSS` `Node` `Express`
@@ -11,7 +12,7 @@ I'm a software engineer who is working in React/Redux/Node, passionate about dev
 
 **DevOps/Misc:** `Git` `Docker` `AWS` `Webpack`
 
-
+<br>
 
 ### Fun Facts🌟
 - I prefer light mode over dark mode.
