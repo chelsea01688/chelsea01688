@@ -2,7 +2,7 @@
 I'm a software engineer who is working in React/Redux/Node, passionate about developing practical community-focused solutions. Recently co-created Docketeer, a Docker Visualizer and Security Analysis Tool.
 
 
-## Skills💻 
+### Skills💻 
 **Frontend & Backend Development:** `React` `TypeScript` `Javascript` `HTML/CSS` `Node` `Express`
 
 **Testing:**  `Jest` `React Testing Library` `Postman` `Supertest`
