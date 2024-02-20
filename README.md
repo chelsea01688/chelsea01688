@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Chelsea!👋
 
 <!--
 **chelsea01688/chelsea01688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
