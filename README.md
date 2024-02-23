@@ -1,5 +1,5 @@
 ### Hi there, I'm Chelsea!👋
-I'm a software engineer who is working in React/Redux/Node, passionate about developing practical community-focused solutions. Recently co-created Docketeer--Docker Desktop extension, a Docker Visualizer and Security Analysis Tool.
+I'm a software engineer who is working in React/Redux/Node, passionate about developing practical community-focused solutions. Recently co-created Docketeer, a Docker Visualizer and Security Analysis Tool.
 
 <br>
 
