@@ -8,9 +8,9 @@ I'm a software engineer who is working in React/Redux/Node, passionate about dev
 
 **Testing:**  `Jest` `React Testing Library` `Postman` `Supertest`
 
-**DBs/Auth:** `PostgreSQL` `MongoDB` `Oauth` `Redis`
+**DBs/Auth:** `PostgreSQL` `MongoDB` `Oauth` `MySQL` 
 
-**DevOps/Misc:** `Git` `Docker` `AWS` `Webpack`
+**Other Technologies:** `Git` `Docker` `AWS` `Webpack` `Redis`
 
 <br>
 
