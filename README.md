@@ -14,9 +14,9 @@ I'm a software engineer who is working in React/Redux/Node, passionate about dev
 
 <br>
 
-### Fun Facts🌟
+### Fun Fact🌟
 - I prefer light mode over dark mode.
-- I had a parrot named Barbara when I was a kid. 
+
 
 <!--
 **chelsea01688/chelsea01688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
